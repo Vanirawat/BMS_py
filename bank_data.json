@@ -1,0 +1,46 @@
+{
+    "ACC1001": {
+        "account_number": "ACC1001",
+        "name": "vani rawat",
+        "pin": "1234",
+        "balance": 1000.0,
+        "account_type": "savings",
+        "creation_date": "2025-10-13 07:17:04",
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 1000.0,
+                "balance": 1000.0,
+                "date": "2025-10-13 07:17:04"
+            }
+        ]
+    },
+    "ACC1002": {
+        "account_number": "ACC1002",
+        "name": "vani",
+        "pin": "1403",
+        "balance": 2500.0,
+        "account_type": "Savings",
+        "creation_date": "2025-11-09 23:26:08",
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 1000.0,
+                "balance": 1000.0,
+                "date": "2025-11-09 23:26:08"
+            },
+            {
+                "type": "Deposit",
+                "amount": 2000.0,
+                "balance": 3000.0,
+                "date": "2025-11-09 23:27:16"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 500.0,
+                "balance": 2500.0,
+                "date": "2025-11-09 23:27:45"
+            }
+        ]
+    }
+}
